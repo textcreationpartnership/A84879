@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders, and rules; set forth by his excellency, Thomas Lord Fairefax, for the taking off of all free-quarter, and billet in the commonwealth of England and Wales. ; Published by his excellencies speciall command.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84879</idno>
+            <idno type="STC">Wing F210</idno>
+            <idno type="STC">Thomason E566_8</idno>
+            <idno type="STC">ESTC R206187</idno>
+            <idno type="EEBO-CITATION">99865363</idno>
+            <idno type="PROQUEST">99865363</idno>
+            <idno type="VID">117603</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117603)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E566[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders, and rules; set forth by his excellency, Thomas Lord Fairefax, for the taking off of all free-quarter, and billet in the commonwealth of England and Wales. ; Published by his excellencies speciall command.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Roberts,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Year of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 28 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117603:1" rendition="simple:additions"/>
+            <p>ORDERS, AND RVLES; Set forth by his Excellency, <hi>Thomas</hi> Lord <hi>Fairefax,</hi> for the taking off of all Free-Quarter, and Billet in the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England</hi> and <hi>Wales.</hi>
+            </p>
+            <p>Publiſhed by his Excellencies ſpeciall Command.</p>
+            <p>
+               <add>July 28 1649</add> 
+               <hi>LONDON,</hi> Printed for <hi>George Roberts.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117603:2"/>
+            <pb n="3" facs="tcp:117603:2"/>
+            <head>Orders and Rules for the taking off of all Free-Quarter and Billet.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Parliament hath made proviſion for the conſtant pay of the Ar<g ref="char:EOLhyphen"/>my, and taking off all Free-Quarter and Billet, and have paſſed an Act with certaine Rules and Inſtructions inten<g ref="char:EOLhyphen"/>ding the neceſſary proviſion for the Souldi<g ref="char:EOLhyphen"/>ers, moſt indifferently both to the Countrey, and them: Theſe are therefore in proſecuti<g ref="char:EOLhyphen"/>on of the ſayd Act to require all Colonels, Majors, Officers, and Souldiers, whatſoever, to obſerve and put in execution ſuch Rules and Inſtructions in thei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſpective Com<g ref="char:EOLhyphen"/>mands
+<pb n="4" facs="tcp:117603:3"/>and places, as hereafter followeth.</p>
+            <p n="1">1. That no Party under the Number of 25. though upon a March, Quarter in pri<g ref="char:EOLhyphen"/>vate Houſes, without the Owners conſent.</p>
+            <p n="2">2. That whereas the Act allowes the Souldiers upon March to Quarter in pri<g ref="char:EOLhyphen"/>vate Houſes two Nights, to the intent they may within that time provide for them<g ref="char:EOLhyphen"/>ſelves, and divers Souldiers doe take advan<g ref="char:EOLhyphen"/>tage thereby (contrary to the intent thereof) to remove Quarters oftner then is neceſſary, and upon their remove march but two or three Myles a day, or there abouts: I doe therefore order, that no Troope march leſſe then ten Myles a day, nor Company of Foore leſſe then ſeaven, except upon ſervice or extraordinary occaſion.</p>
+            <p n="3">3. That upon ſettlement of Quarters, the Officer in Chiefe of every Troope Compa<g ref="char:EOLhyphen"/>ny, or commanded party, make knowne to the reſpective Landlords within his reſpect<g ref="char:EOLhyphen"/>ive Quarters, that they are to diſcharge their Billet; and in caſe any Landlord ſhall com<g ref="char:EOLhyphen"/>plaine to the Captaine or Commander in
+<pb n="5" facs="tcp:117603:3"/>Chiefe upon the place that any of his Soul<g ref="char:EOLhyphen"/>diers have not payd their Quarters: The ſayd Captaine or Commander in Chiefe of the ſayd Troope, Company, or Party, to give ſatisfaction to every perſon out of the Offenders pay within tonne dayes after juſt complaint made, upon paine of Caſhiering: And in caſe the Captaine, or Officer in Chief ſhall refuſe or neglect to give ſatisfaction, as aforeſayd; the Colonel, or Major of the ſayd Regiment, to give ſatisfaction himſelfe to the Landlord out of the ſayd Officers and Offenders pay next growing due: And to tranſmit the Charge againſt the Officer ſo offending, with the examination to the Iudge Advocate at the Head-Quarters within ten daies after hee hath had information there<g ref="char:EOLhyphen"/>of.</p>
+            <p n="4">4. That in regard the ſame care cannot be taken upon a March: It is Ordered, That the Quarter-Maſter, or any imployed to take up Quarters, do in their tickets for Quarter, expreſſe the name of the Souldier or Souldiers to Quarter there, and make known that they
+<pb n="6" facs="tcp:117603:4"/>are to pay their Quarters. And that in caſe of neglect, upon complaint the next mor<g ref="char:EOLhyphen"/>ning to the Commander in chiefe, of the par<g ref="char:EOLhyphen"/>ty, I roope, or Company, they ſhall receive ſatisfaction, That if either the Quarter-Ma<g ref="char:EOLhyphen"/>ſter, or any imployed upon that ſervice, or the Commander in chiefe fayl in the due obſervance thereof, that they incutre the pe<g ref="char:EOLhyphen"/>nalty of Caſhiering, giving ſasſsfaction to the Complainers, as before.</p>
+            <p n="5">5. That this may be the better put in Ex<g ref="char:EOLhyphen"/>ecution; I doe Order, that all Colonels, and other Officers (but ſuch as I ſhall appoynt to attend the Head Quarters) bee reſident with their reſpective Regiments, and not abſent above fourteen dayes without ſpeciall leave from my ſelfe, upon paine of forfeiting their pay during their abſence; And that no Co<g ref="char:EOLhyphen"/>lonel doe give leave to any of his Officers to bee abſent above fourteen dayes without ſpeciall leave from my ſelfe; the Officer ſo offending to loſe his pay during that abſence.</p>
+            <p n="6">6. That the Deputy Commiſſaries of the Muſters in their reſpect vecircuits, and
+<pb n="7" facs="tcp:117603:4"/>Aſſociations doe certifie (by name) unto the Commiſſary Generall of the Muſters, every Muſter what Officers of any Regiment, or belonging to Garriſons they find abſent from their commands. And that the Commiſſa<g ref="char:EOLhyphen"/>ry upon it do make Certificate thereof upon every Muſter with all ſpeed after the receipt thereof to the Major Generall, or thoſe who give out Orders at the Head-quarters in his abſence.</p>
+            <p n="7">7. That by vertue of the Commiſſions formerly granted for the keeping of Courts of VVarre in the reſpective Regiments; each Colonell or Major take care for the conve<g ref="char:EOLhyphen"/>ning the Officers of his Regiment at a Court Marſhall once every month, at the leaſt, and examine what hath beene done in the obſer<g ref="char:EOLhyphen"/>ving and executing of the afore going Orders and the Articles of VVar. And to certifie to the Major Generall or Officer iſſuing out Or<g ref="char:EOLhyphen"/>ders in his abſence at the Head Quarters, what Officers were then abſent from their commands, and upon what grounds, as is expreſt in the foregoing Article.</p>
+            <p n="8">
+               <pb n="8" facs="tcp:117603:5"/> 3. That all Offences mentioned within theſe Orders which have not a particular pe<g ref="char:EOLhyphen"/>nalty appointed for them, be puniſhed at the judgement of the Regimentall Counſell of VVar; provided it extend to the loſſe of place of a Commiſſion Officer, nor to the taking away of life or limbe from any whatſoever.</p>
+            <closer>
+               <dateline>Given under my hand and ſeale at Kenſing<g ref="char:EOLhyphen"/>ton <date>the 28. of Iuly. 1649.</date>
+               </dateline>
+               <signed>T. FAIRFAX.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
